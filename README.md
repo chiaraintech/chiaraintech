@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chiaraintech
-- 👀 I’m interested in stepping up my game in JavaScript.
-- 🌱 I’m currently learning React-Redux and advanced JavaScript concepts to improve my front end knowledge.
+- 👀 I’m interested in stepping up my game in data structures and algorithms.
+- 🌱 I’m currently working hard to use my skills to improve the world somehow.
 - 📫 How to reach me chiaraintech@gmail.com
 
 <!---
